@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class E01PotenciasDe2HastaParar {
     public static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in);
+        Scanner teclado = new Scanner(System.in); // teclado a veces aparece como tecaldo.
 
         int resultado=1;
         int contador=0;
